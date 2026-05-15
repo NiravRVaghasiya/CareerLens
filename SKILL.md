@@ -1,5 +1,5 @@
 ---
-name: CareerLens
+name: career-lens
 ---
 
 ## 1. Role Definition
